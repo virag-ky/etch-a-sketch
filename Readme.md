@@ -11,6 +11,7 @@
 - JavaScript
 
 ## Screenshot
+![etch-a-sketch](https://user-images.githubusercontent.com/79658534/153749340-a8c941f6-5bde-4a60-939e-708045e97f67.png)
 
 ## Links
 
