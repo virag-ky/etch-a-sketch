@@ -16,3 +16,5 @@
 ## Links
 
 - Live Site URL: [https://virag-ky.github.io/etch-a-sketch/](https://virag-ky.github.io/etch-a-sketch/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virag-ky&repo=etch-a-sketch)](https://github.com/anuraghazra/github-readme-stats)
